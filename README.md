@@ -1,4 +1,4 @@
-### Hi there 👋
+# **Hi there, I'm Andrew!** 👋
 
 <!--
 **Andrew-J-Moore/Andrew-J-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎮 Senior Developer for Viper Roleplay <br>
+👨‍🚀 Always trying to take my skills to the moon <br>
+📖 Constantly evolving, constantly learning
