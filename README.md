@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎮 Senior Developer for Viper Roleplay <br>
 👨‍🚀 Always trying to take my skills to the moon <br>
 📖 Constantly evolving, constantly learning
 
