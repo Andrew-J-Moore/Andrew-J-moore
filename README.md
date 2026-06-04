@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍🚀 Always trying to take my skills to the moon <br>
-📖 Constantly evolving, constantly learning
 
-<h2>⚡ GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Andrew-J-Moore&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-</p>
